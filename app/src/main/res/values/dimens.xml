@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size">20sp</dimen>
+    <dimen name="small_padding">8sp</dimen>
+    <dimen name="layout_margin">16sp</dimen>
+    <dimen name="paddingstart">16dp</dimen>
+    <dimen name="linearlayoutpadding">5dp</dimen>
+</resources>

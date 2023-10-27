@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Yog Bakhru</string>
+    <string name="avatar">Avatar</string>
+    <string name="bio">In my experience, I\'ve built machine learning models using Python and Logistic Regression, using NLTK for natural language processing to effectively detect hate speech. I\'ve also worked on projects using deep learning techniques, such as Python, Scikit Learn, and Keras, to detect Bitcoin ransomware addresses, enhancing network security against potential threats.</string>
+    <string name="whatisyournickname">What is your nickname</string>
+    <string name="Done">Done</string>
+</resources>
