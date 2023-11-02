@@ -42,6 +42,6 @@ If you'd like to contribute to this project, please follow these steps:
 
 If you have any questions or need further assistance, feel free to contact the project owner:
 
-- [Your Name](https://github.com/your-username)
+- [Your Name](https://github.com/alive2002yb)
 
 Thank you for checking out this resume app! We hope you find it useful for displaying your nickname in a fun and interactive way.
